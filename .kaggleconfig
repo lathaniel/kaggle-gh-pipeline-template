@@ -1,0 +1,34 @@
+{
+    "kaggle-data-directory": "kaggle-data",
+    "kernel-metadata": {
+        "id": "lathaniel/cms-covid-19-nursing-homes",
+        "title": "CMS Covid 19 Nursing Homes",
+        "code_file": "./notebook.ipynb",
+        "language": "python",
+        "kernel_type": "notebook",
+        "is_private": "true",
+        "enable_gpu": "false",
+        "enable_internet": "true",
+        "dataset_sources": [
+            "lathaniel/CMS-Covid-19-Nursing-Homes-dataset"
+        ],
+        "competition_sources": [],
+        "kernel_sources": []
+    },
+    "dataset-metadata": {
+        "title": "CMS Covid-19 Nursing Homes Dataset",
+        "id": "lathaniel/CMS-Covid-19-Nursing-Homes-dataset",
+        "description": "",
+        "subtitle": "COVID-19 information reported by nursing homes to the CDC's National Healthcare Safety Network (NHSN) COVID-19 Long Term Care Facility Module.",
+        "resources": [
+            {
+                "path": "./COVID_19_Nursing_Home_Data_09_25_2022.csv"
+            }
+        ],
+        "licenses": [
+            {
+                "name": "CC0-1.0"
+            }
+        ]
+    }
+}
