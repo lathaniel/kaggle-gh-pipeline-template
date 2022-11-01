@@ -1,4 +1,12 @@
-# GitHub and Kaggle integration
+# GitHub and Kaggle Integration
+
+## Use Case
+
+## Design
+
+![Design Diagram][Design Diagram]
+
+## Usage
 
 ## Version Control
 
@@ -29,3 +37,5 @@ To do so, the workflow needs the following requirements:
 
 * Kaggle username and Kaggle API key stored as GitHub secrets
 * a .kaggleconfig file
+
+[Design Diagram]: assets/kaggle-gh.drawio.svg
