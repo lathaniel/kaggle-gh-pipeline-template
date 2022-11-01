@@ -4,7 +4,7 @@
 
 ## Design
 
-![Design Diagram][Design Diagram]
+![Design Diagram](assets/kaggle-gh.drawio.png)
 
 ## Usage
 
@@ -37,5 +37,3 @@ To do so, the workflow needs the following requirements:
 
 * Kaggle username and Kaggle API key stored as GitHub secrets
 * a .kaggleconfig file
-
-[Design Diagram]: assets/kaggle-gh.drawio.png
